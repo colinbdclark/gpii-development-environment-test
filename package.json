@@ -1,0 +1,12 @@
+{
+    "name": "test-it",
+    "description": "A test application for the Prosperity4All Quality Infrastructure development environment provisioning tools.",
+    "main": "index.js",
+    "version": "0.0.0",
+    "author": "OCAD University",
+    "license": "BSD-3-Clause",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "express": "4.3.1"
+    }
+}
